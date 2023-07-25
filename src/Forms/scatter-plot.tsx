@@ -40,7 +40,7 @@ export const ScatterPlot = ({clientData,sampleData}:Props): JSX.Element => {
         
         title: {
           display: true,
-          text: 'Number of Employees',
+          text: 'Headcount',
           style:{fontWeight:"bold"}
         },
       },
@@ -49,7 +49,7 @@ export const ScatterPlot = ({clientData,sampleData}:Props): JSX.Element => {
         
         title: {
           display: true,
-          text: 'Number of HR',
+          text: 'Human Resource FTE',
           style:{fontWeight:"bold"}
         },
       },
