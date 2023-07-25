@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zelt-hr-ratio/static/css/main.07f836d8.css",
-    "main.js": "/zelt-hr-ratio/static/js/main.8c89cb72.js",
-    "static/js/787.df967c2e.chunk.js": "/zelt-hr-ratio/static/js/787.df967c2e.chunk.js",
-    "index.html": "/zelt-hr-ratio/index.html",
-    "main.07f836d8.css.map": "/zelt-hr-ratio/static/css/main.07f836d8.css.map",
-    "main.8c89cb72.js.map": "/zelt-hr-ratio/static/js/main.8c89cb72.js.map",
-    "787.df967c2e.chunk.js.map": "/zelt-hr-ratio/static/js/787.df967c2e.chunk.js.map"
+    "main.css": "/Zelt-HR-Ratio/static/css/main.07f836d8.css",
+    "main.js": "/Zelt-HR-Ratio/static/js/main.1181ed8e.js",
+    "static/js/787.df967c2e.chunk.js": "/Zelt-HR-Ratio/static/js/787.df967c2e.chunk.js",
+    "index.html": "/Zelt-HR-Ratio/index.html",
+    "main.07f836d8.css.map": "/Zelt-HR-Ratio/static/css/main.07f836d8.css.map",
+    "main.1181ed8e.js.map": "/Zelt-HR-Ratio/static/js/main.1181ed8e.js.map",
+    "787.df967c2e.chunk.js.map": "/Zelt-HR-Ratio/static/js/787.df967c2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07f836d8.css",
-    "static/js/main.8c89cb72.js"
+    "static/js/main.1181ed8e.js"
   ]
 }
