@@ -17,7 +17,7 @@ export const ScatterPlot = ({clientData,sampleData}:Props): JSX.Element => {
     if (n_emp!==undefined && n_hr!==undefined) {
       data.datasets.push({
         data: [{ x: n_emp, y: n_hr }],
-        label: "Scatter Plot 2",
+        label: "Scatter Plot",
         backgroundColor: "red",
         pointRadius:7,
         pointStyle: 'diffuse-image'
